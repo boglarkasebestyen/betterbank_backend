@@ -82,6 +82,8 @@ Things to improve in the future:
 ## Live demo
 [Here](https://betterbankbsebe.herokuapp.com/#/).
 
+View the frontend implementation [here](https://github.com/boglarkasebestyen/betterbank_frontend).
+
 
 
 # License
